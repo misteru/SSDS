@@ -1,3 +1,3 @@
-# AEDG
+# SSDS
 The source code for our paper: 
-Autoencoder-like and Data-grouping Strategy for Unsupervised Feature Selection
+Symmetrical Self-representation and Data-grouping Strategy for Unsupervised Feature Selection
