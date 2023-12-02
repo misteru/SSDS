@@ -1,6 +1,6 @@
-function [Z, score, index] = AEDG(X, c, alpha, beta, gamma, NITER, group_num, sigma)
+function [Z, score, index] = SSDS(X, c, alpha, beta, gamma, NITER, group_num, sigma)
 %-------------------------------------------------------------------------------------------
-%Reference to be updated: "Autoencoder-like and Data-grouping Strategy for Unsupervised Feature Selection"
+%Reference to be updated: "Symmetrical Self-representation and Data-grouping Strategy for Unsupervised Feature Selection"
 %-------------------------------------------------------------------------------------------
 %Input:
 %      X: d by n matrix, n samples with d dimensions.
